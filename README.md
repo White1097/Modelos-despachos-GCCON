@@ -15,7 +15,7 @@ Clique no arquivo desejado para fazer o download:
 
 - 📄 [Modelo — Inexigibilidade de cargos](https://github.com/White1097/Modelos-despachos-GCCON/raw/refs/heads/main/MOdelo%20inexigibilidade%20de%20cargos.docx)
   
-- 📄 [Modelo — Provocação do gestor para prorrogação de contratos](https://github.com/White1097/Modelos-despachos-GCCON/raw/refs/heads/main/Modelo%20provoca%C3%A7%C3%A3o%20gestor%20prorroga%C3%A7%C3%A3o%20contratos.docx)
+- 📄 <a href="https://github.com/White1097/Modelos-despachos-GCCON/raw/refs/heads/main/Modelo%20provoca%C3%A7%C3%A3o%20gestor%20prorroga%C3%A7%C3%A3o%20contratos.docx">Modelo — Provocação do gestor para prorrogação de contratos</a>
 
 - 📄 [Checklist — Prorrogação de contrato de locação de imóvel](https://github.com/White1097/Modelos-despachos-GCCON/raw/refs/heads/main/Checklist%20-%20prorroga%C3%A7%C3%A3o%20contrato%20de%20loca%C3%A7%C3%A3o%20de%20im%C3%B3vel-%20v.Junho2026_20260617_115647.docx)
 
