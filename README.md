@@ -3,7 +3,7 @@
 Clique no arquivo desejado para fazer o download:
 
 ## 📄 Arquivos disponíveis
-- 📄 [Modelo — Autorização para prorrogação de contratos](./Modelo%20autoriza%C3%A7%C3%A3o%20proroga%C3%A7%C3%A3o%20contratos.docx?raw=1)
+- 📄 [Modelo — Autorização para prorrogação de contratos](https://raw.githubusercontent.com/White1097/Modelos-despachos-GCCON/main/Modelo%20autoriza%C3%A7%C3%A3o%20prorroga%C3%A7%C3%A3o%20contratos.docx)
 
 - 📄 [Modelo — Declaração de ausência de continuidade](./Modelo%20Declara%C3%A7%C3%A3o%20aus%C3%AAncia%20de%20continuidade.docx?raw=1)
 
